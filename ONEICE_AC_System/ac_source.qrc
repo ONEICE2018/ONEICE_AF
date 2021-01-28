@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgsource/button_analysis.png</file>
+        <file>imgsource/button_avg.png</file>
+        <file>imgsource/button_cal.png</file>
+        <file>imgsource/button_center.png</file>
+        <file>imgsource/button_channelmax.png</file>
+        <file>imgsource/button_channelnext.png</file>
+        <file>imgsource/button_channelprev.png</file>
+        <file>imgsource/button_display.png</file>
+        <file>imgsource/button_format.png</file>
+        <file>imgsource/button_marker.png</file>
+        <file>imgsource/button_markerfctn.png</file>
+        <file>imgsource/button_markersearch.png</file>
+        <file>imgsource/button_meas.png</file>
+        <file>imgsource/button_preset.png</file>
+        <file>imgsource/button_scale.png</file>
+        <file>imgsource/button_span.png</file>
+        <file>imgsource/button_start.png</file>
+        <file>imgsource/button_stop.png</file>
+        <file>imgsource/button_sweepsetup.png</file>
+        <file>imgsource/button_tracemax.png</file>
+        <file>imgsource/button_tracenext.png</file>
+        <file>imgsource/button_traceprev.png</file>
+        <file>imgsource/button_trigger.png</file>
+        <file>imgsource/title_active_ch_trace.png</file>
+        <file>imgsource/title_mkr_analysis.png</file>
+        <file>imgsource/title_response.png</file>
+        <file>imgsource/title_stimulus.png</file>
+        <file>imgsource/E5071.png</file>
+        <file>imgsource/N1911A.png</file>
+        <file>imgsource/N5182A.png</file>
+        <file>imgsource/DC power.png</file>
+        <file>imgsource/N90XX.png</file>
+        <file>imgsource/DC poweron.png</file>
+    </qresource>
+</RCC>
